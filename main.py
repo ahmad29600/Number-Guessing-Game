@@ -1,5 +1,4 @@
 # Number Guessing Game
-# Checking initial commit
 
 import random
 random_number = random.randint(1, 100)
